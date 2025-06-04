@@ -152,7 +152,7 @@ body {
     @apply bg-black text-white rounded-4xl text-sm px-4 py-2 capitalize;
   }
   .companion-bookmark {
-    @apply px-2 bg-black rounded-4xl flex items-center h-full aspect-square cursor-pointer;
+    @apply bg-black rounded-4xl px-2.5 flex items-center h-full aspect-square cursor-pointer justify-center;
   }
   .input {
     @apply !border-black !bg-white focus-visible:!ring-0 focus-visible:!border-black !w-full;
